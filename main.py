@@ -2,9 +2,8 @@ import telebot
 import requests
 import json
 import urllib
-import gspread
 
-api = '2039787121:AAG7eaKxNnwMJAtmFFCGGg2HTPSHnAPNQnc'
+api = 'BOT TOKEN'
 bot = telebot.TeleBot(api)
 
 def cid(cid):
