@@ -45,9 +45,9 @@ def download(message):
 		pass
 
 while True:
-    try:
-        print("bot running") 
-        bot.polling()  
-    except:
-        print('bot restart')
-        time.sleep(5)  
+	try:
+		print("bot running") 
+		bot.polling()  
+	except:
+		print('bot restart')
+		time.sleep(5)  
