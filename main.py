@@ -50,4 +50,4 @@ while True:
 		bot.polling()  
 	except:
 		print('bot restart')
-		time.sleep(5)  
+		time.sleep(5)
