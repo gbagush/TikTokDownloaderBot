@@ -3,7 +3,7 @@ import requests
 import json
 import urllib
 
-api = 'BOT TOKEN'
+api = '1937149454:AAEfvc5kjTT1vOtIHD0iQ3DKAB9j3odOyBU'
 bot = telebot.TeleBot(api)
 
 def cid(cid):
